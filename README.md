@@ -3,6 +3,11 @@
 ## Overview
 This project scrapes structured data from a Wikipedia page containing multiple tables of US companies by revenue.
 
+## Requirements
+requests
+beautifulsoup4
+pandas
+
 ## What it does
 - Extracts 3 different HTML tables using BeautifulSoup
 - Cleans and structures data using Pandas
